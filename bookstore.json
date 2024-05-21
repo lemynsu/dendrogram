@@ -1,0 +1,215 @@
+{
+  "name": "bookstore",
+  "children": [
+    {
+      "name": "Arts & Photography",
+      "children": [
+        {
+          "name": "How-to Crafts",
+          "sales": 12,
+          "revenue": 2711
+        },
+        {
+          "name": "Coffee-table",
+          "sales": 98,
+          "revenue": 2309
+        }
+      ]
+    },
+    {
+      "name": "Children's Books",
+      "children": [
+        {
+          "name": "Baby Books",
+          "sales": 12,
+          "revenue": 16092
+        },
+        {
+          "name": "Age 3-5",
+          "children": [
+            {
+              "name": "1st Readers",
+              "sales": 19,
+              "revenue": 24514
+            },
+            {
+              "name": "ABCs",
+              "sales": 45,
+              "revenue": 17771
+            },
+            {
+              "name": "Tolstoy for Tots",
+              "sales": 14,
+              "revenue": 13295
+            }
+          ]
+        },
+        {
+          "name": "Age 6-8",
+          "sales": 69,
+          "revenue": 14046
+        },
+        {
+          "name": "Pre-Teen & Teen",
+          "sales": 57,
+          "revenue": 18046
+        }
+      ]
+    },
+    {
+      "name": "Computers & Internet",
+      "children": [
+        {
+          "name": "Troubleshooting",
+          "sales": 29,
+          "revenue": 4527
+        }
+      ]
+    },
+    {
+      "name": "Mystery",
+      "children": [
+        {
+          "name": "Crime",
+          "children": [
+            {
+              "name": "Fiction",
+              "sales": 82,
+              "revenue": 11186
+            },
+            {
+              "name": "True Crime",
+              "sales": 18,
+              "revenue": 8790
+            }
+          ]
+        },
+        {
+          "name": "Spy",
+          "children": [
+            {
+              "name": "True Spy",
+              "sales": 96,
+              "revenue": 6516
+            },
+            {
+              "name": "Other",
+              "sales": 74,
+              "revenue": 3809
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nonfiction",
+      "children": [
+        {
+          "name": "Health",
+          "children": [
+            {
+              "name": "Diet",
+              "sales": 21,
+              "revenue": 3293
+            },
+            {
+              "name": "Fitness",
+              "sales": 79,
+              "revenue": 6891
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Magazine",
+      "children": [
+        {
+          "name": "Fashion",
+          "children": [
+            {
+              "name": "Women's",
+              "sales": 91,
+              "revenue": 7315
+            },
+            {
+              "name": "Men's",
+              "sales": 87,
+              "revenue": 2222
+            }
+          ]
+        },
+        {
+          "name": "Home",
+          "sales": 42,
+          "revenue": 2612
+        },
+        {
+          "name": "Other",
+          "sales": 30,
+          "revenue": 3140
+        },
+        {
+          "name": "Sports",
+          "children": [
+            {
+              "name": "Sport's Illustrated",
+              "sales": 47,
+              "revenue": 8009
+            },
+            {
+              "name": "MMA",
+              "sales": 97,
+              "revenue": 4257
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Romance",
+      "children": [
+        {
+          "name": "Break up",
+          "children": [
+            {
+              "name": "Teen",
+              "sales": 14,
+              "revenue": 6205
+            },
+            {
+              "name": "Young Adult",
+              "sales": 32,
+              "revenue": 25193
+            },
+            {
+              "name": "Audiobooks",
+              "sales": 80,
+              "revenue": 3045
+            }
+          ]
+        },
+        {
+          "name": "Make up",
+          "sales": 40,
+          "revenue": 15050
+        }
+      ]
+    },
+    {
+      "name": "Science Fiction & Fantasy",
+      "children": [
+        {
+          "name": "Apocalyptic",
+          "sales": 7,
+          "revenue": 10200
+        },
+        {
+          "name": "Comic",
+          "sales": 44,
+          "revenue": 3456
+        }
+      ]
+    }
+  ]
+}
